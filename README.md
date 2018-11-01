@@ -1,4 +1,4 @@
-# AzureCognitiveAPI
+# Mission Mars Crew FaceId Detection using Microsoft Azure Cognitive APIs 
 
 This is python implementation of APIs for [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/). The problem statement for this solution can be found at [Mission-Mars-Fourth-Horizon-Org/Mission-Briefings](https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings/tree/master/CognitiveServices).
 
