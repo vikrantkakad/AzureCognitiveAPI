@@ -1,5 +1,8 @@
 # Mission Mars Crew's Face Detection using Microsoft Azure Cognitive APIs 
 
+[![License](https://img.shields.io/github/license/vikrantkakad/AzureCognitiveAPI?color=009fff)](LICENSE)
+
+
 This is python implementation of APIs for [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/). The problem statement for this solution can be found at [Mission-Mars-Fourth-Horizon-Org/Mission-Briefings](https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings/tree/master/CognitiveServices).
 
 [Microsoft Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/) let you build apps with powerful algorithms using just a few lines of code. They work across devices and platforms such as iOS, Android, and Windows, keep improving, and are easy to set up.
